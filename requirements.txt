@@ -1,5 +1,4 @@
 openai==1.70.0
-typer==0.15.2
 pandas==2.2.3
 python-dotenv==1.1.0
 
